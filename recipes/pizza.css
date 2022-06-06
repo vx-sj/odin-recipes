@@ -1,0 +1,34 @@
+* {
+    font-family: Arial, sans-serif;
+    background-color: rgb(238, 211, 211);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black;
+
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border: none;
+}
+
+h2,
+h3 {
+    text-decoration: underline;
+
+}
+
+ul,
+ol {
+    line-height: 30px;
+}
