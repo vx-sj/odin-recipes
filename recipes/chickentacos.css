@@ -1,6 +1,6 @@
 * {
     font-family: Arial, sans-serif;
-    background-color: rgb(224, 197, 197);
+    background-color: rgb(181, 214, 174);
 }
 
 h1 {
@@ -42,6 +42,8 @@ ul li::before {
     display: inline-block;
     width: .8em;
 }
+
+
 
 li::before {}
 

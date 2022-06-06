@@ -1,6 +1,6 @@
 * {
     font-family: Arial, sans-serif;
-    background-color: rgb(224, 197, 197);
+    background-color: rgb(172, 190, 186);
 }
 
 h1 {
@@ -60,4 +60,8 @@ ol li:before {
     font-weight: bold;
     display: inline-block;
     width: 1.5em;
+}
+
+.underline {
+    text-decoration: underline;
 }
